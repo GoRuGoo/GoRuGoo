@@ -1,9 +1,5 @@
 # Hi,There!💻☄️⭐️🌙
 # Comment
-GoRuGooです。テスト期間以外はだいたい毎日開発しています。
-
-プログラミングと星街すいせいが大好きです。三度の飯より大好きです。ガチ愛してます。
-
 [My Portfolio URL](https://gorugoo.com)
 
 
