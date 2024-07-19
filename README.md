@@ -1,5 +1,4 @@
 # Hi,There!💻☄️⭐️🌙
-# Comment
 [My Portfolio URL](https://gorugoo.com)
 
 
@@ -9,4 +8,4 @@
 
 # Contact Me
 - Gmail:goru.technology@gmail.com 
-- Twitter:[@gorurobo_tech](https://twitter.com/gorurobo_tech)
+- X:[@gorurobo_tech](https://twitter.com/gorurobo_tech)
